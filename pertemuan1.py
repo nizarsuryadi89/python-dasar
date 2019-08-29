@@ -1,0 +1,1 @@
+print('ini percobaan pertama')
